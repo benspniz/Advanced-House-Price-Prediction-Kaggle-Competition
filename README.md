@@ -7,3 +7,5 @@ Work Log
 3. Make Prediction and Submit it to obtain Kaggle Public Leaderboard Score (Evaluation metric RMSE). Scores are:
     * Random Forest Regressor Model 1 - 0.14929 
     * Random Forest Regressor Model 3 - 0.14846
+    * XGBoost Regressor Model 0 - 0.13810
+    * XGBoost Regressor Model 2 - 0.13335

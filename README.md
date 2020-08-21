@@ -8,3 +8,4 @@ Work Log
     * Random Forest Regressor Model 1 - 0.14929 
     * Random Forest Regressor Model 3 - 0.14846
     * XGBoost Regressor Model 0 - 0.12557
+    * XGBoost Regressor Model 1 - 0.12461

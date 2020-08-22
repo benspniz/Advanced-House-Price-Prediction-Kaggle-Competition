@@ -6,4 +6,4 @@ Work Log
 2. Mean encode the categorical values.  
 3. Make Prediction and Submit it to obtain Kaggle Public Leaderboard Score (Evaluation metric Root Mean Squared Logarithmic Error). Scores are:
     * Random Forest Regressor - 0.14344
-    * XGBoost Regressor
+    * XGBoost Regressor - 0.12788

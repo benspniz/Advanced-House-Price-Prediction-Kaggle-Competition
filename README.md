@@ -7,7 +7,7 @@
     * Numerical Features - Impute median of the feature!  
 2. Mean encode the categorical values.  
 3. Make Prediction and Submit it to obtain Kaggle Public Leaderboard Score (Evaluation metric Root Mean Squared Logarithmic Error).**Scores are:**
-    * Random Forest Regressor - 0.14344
+    * Random Forest Regressor - 0.14914
     * XGBoost Regressor - 0.12611
     * Lasso Regressor - 0.13425
     * Ridge Regressor - 0.13409
